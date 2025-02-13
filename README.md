@@ -1,4 +1,4 @@
-#Sui Aether: A New Era of Object-First Consensus with Proof of Uncorruption (PoU)
+# Sui Aether: A New Era of Object-First Consensus with Proof of Uncorruption (PoU)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MystenLabs/sui/refs/heads/main/docs/site/static/img/logo.svg" alt="Sui Logo" width="100" height="100">
